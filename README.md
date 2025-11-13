@@ -77,6 +77,5 @@ MIT License – Free to use and modify.
 # ☕ Support me and other projects
 If you found this project or any other project helpful and want to support further development, you can buy me a coffee here:
 
-💖 [Donate via Ko-fi](https://ko-fi.com/zenitro)
-
+💖 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E21JHMRP)
 Your support helps keep this project alive and fuels new features! 🚀
